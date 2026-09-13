@@ -1,0 +1,4 @@
+Model,Training Accuracy,Validation Accuracy
+Decision Tree,0.8766167111476083,0.8725369458128078
+Random Forest,1.0,0.9039408866995073
+Logistic Regression,0.8811332375282283,0.8823891625615764
