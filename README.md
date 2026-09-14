@@ -10,7 +10,7 @@ Projects that represent larger, more complete applications of the concepts I hav
 
 > 🚧 More projects will be added as I progress through my Data Science training.
 
-### [Project Name]
+### [Project Name] (Placeholder)
 
 **Status:** 🚧 In progress
 
